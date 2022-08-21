@@ -56,10 +56,23 @@ h2 {
     padding-left: 20px;
     border-radius: 5px;
     box-shadow: 10px 10px 40px grey;
+
 }
 
 .experience-area {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+
+#fullstack-developer {
+    border-left: 7px solid tomato;
+}
+
+#baby-developer {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
 }
